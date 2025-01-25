@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, Ucky Deni Ulinnuha is here
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=%22Je%20Crois%20En%20Moi%22&theme=dracula&author=anonymous)]
+![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=%22Je%20Crois%20En%20Moi%22&theme=dracula&author=anonymous)
 
 ```
 I am  Fullstack Developer within 3 years of experiences. Focused on Backend Architecture Development.
